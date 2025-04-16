@@ -1,5 +1,5 @@
 # STCNet
-[**Paper**]([https://link.springer.com/article/10.1007/s13534-023-00309-4](https://www.sciencedirect.com/science/article/abs/pii/S001048252401610X))<br>
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S001048252401610X)<br>
 Yang, Jaemo, Doheun Cha, Dong-Gyu Lee, and Sangtae Ahn. "STCNet: Spatio-Temporal Cross Network with subject-aware contrastive learning for hand gesture recognition in surface EMG." Computers in Biology and Medicine 185 (2025): 109525.
 
 
